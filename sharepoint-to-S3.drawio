@@ -1,0 +1,417 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
+  <diagram name="Page-1" id="6CO7TYVCKSgY1BVK7JIl">
+    <mxGraphModel dx="1932" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IfqY_Ha_KSQStL62-luk-1" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#DF8C42;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.microsoft_sharepoint;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="-120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-2" target="IfqY_Ha_KSQStL62-luk-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-72" value="New Documents added to Dev S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-50" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="247.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-4" target="IfqY_Ha_KSQStL62-luk-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-135" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-134" vertex="1" connectable="0">
+          <mxGeometry x="-0.363" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-4" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-5" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-10" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="360" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-12" target="IfqY_Ha_KSQStL62-luk-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-73" value="Dev Knowledge Base Sync Launched" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-51" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-12" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-55" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-26" target="IfqY_Ha_KSQStL62-luk-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-26" target="IfqY_Ha_KSQStL62-luk-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-78" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-57" vertex="1" connectable="0">
+          <mxGeometry x="-0.2333" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-26" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;score&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;gt;= 80%&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="600" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-29" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="607.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-30" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="720" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-31" target="IfqY_Ha_KSQStL62-luk-116" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-137" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-136" vertex="1" connectable="0">
+          <mxGeometry x="0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-31" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-32" target="IfqY_Ha_KSQStL62-luk-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-81" value="Sync Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-61" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-32" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-33" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-34" target="IfqY_Ha_KSQStL62-luk-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-84" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-65" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-34" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-35" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-36" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="960" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-64" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-37" target="IfqY_Ha_KSQStL62-luk-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-37" value="&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;score&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;gt;= 80%&lt;/font&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-38" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1447.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-39" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1560" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-40" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#7AA116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-41" target="IfqY_Ha_KSQStL62-luk-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-89" value="Sync Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-88" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-41" target="IfqY_Ha_KSQStL62-luk-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-144" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-143" vertex="1" connectable="0">
+          <mxGeometry x="-0.1556" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-41" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bedrock;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1920" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-45" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="1800" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-1" target="IfqY_Ha_KSQStL62-luk-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-71" value="New Documents uploaded to Dev S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-49" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-3" target="IfqY_Ha_KSQStL62-luk-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-74" value="Sync Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-52" vertex="1" connectable="0">
+          <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-10" target="IfqY_Ha_KSQStL62-luk-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-75" value="RAG Eval Created for Dev KB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-53" vertex="1" connectable="0">
+          <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-4" target="IfqY_Ha_KSQStL62-luk-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-76" value="Rag Eval Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-5" target="IfqY_Ha_KSQStL62-luk-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-77" value="&lt;div&gt;Email&amp;nbsp;&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-56" vertex="1" connectable="0">
+          <mxGeometry x="0.0133" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-30" target="IfqY_Ha_KSQStL62-luk-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-79" value="Copy of New Documents from Dev S3 to QA S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-58" vertex="1" connectable="0">
+          <mxGeometry x="-0.2333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-31" target="IfqY_Ha_KSQStL62-luk-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-80" value="New Documents added to QA S3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-59" vertex="1" connectable="0">
+          <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-60" value="QA Knowledge Base Sync Launched" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-36" target="IfqY_Ha_KSQStL62-luk-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-35" target="IfqY_Ha_KSQStL62-luk-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-82" value="RAG Eval created for QA KB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-62" vertex="1" connectable="0">
+          <mxGeometry x="0.1" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-33" target="IfqY_Ha_KSQStL62-luk-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-83" value="RAG Eval Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-63" vertex="1" connectable="0">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-37" target="IfqY_Ha_KSQStL62-luk-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-85" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-66" vertex="1" connectable="0">
+          <mxGeometry x="-0.1333" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-67" value="Copy of New Documents from QA S3 to Prod S3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-39" target="IfqY_Ha_KSQStL62-luk-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-68" value="New Documents added to Prod S3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-40" target="IfqY_Ha_KSQStL62-luk-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-45" target="IfqY_Ha_KSQStL62-luk-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-86" value="Prod Knowledge Base Sync Launched" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-69" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-70" value="&lt;div&gt;Sales Training Documents&amp;nbsp;&lt;/div&gt;&lt;div&gt;(in Sharepoint)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="197.5" y="-160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-87" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="247.5" y="2040" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-90" value="&lt;div&gt;Update&lt;/div&gt;&lt;div&gt;Completed&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="240" y="2160" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-87" target="IfqY_Ha_KSQStL62-luk-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-92" value="Email Notification Sent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-91" vertex="1" connectable="0">
+          <mxGeometry x="-0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-100" target="IfqY_Ha_KSQStL62-luk-101" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-99" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-98" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-100" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1680" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-101" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1687.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-104" target="IfqY_Ha_KSQStL62-luk-105" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-103" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-102" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-104" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1920" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-105" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1927.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-108" target="IfqY_Ha_KSQStL62-luk-109" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-107" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-106" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-108" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-109" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1327.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-112" target="IfqY_Ha_KSQStL62-luk-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-111" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-110" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-112" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1080" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-113" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="1087.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-116" target="IfqY_Ha_KSQStL62-luk-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-115" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-114" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-116" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="840" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-117" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="847.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-120" target="IfqY_Ha_KSQStL62-luk-121" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-119" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-118" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-120" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="480" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-121" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="487.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-124" target="IfqY_Ha_KSQStL62-luk-125" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-123" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-122" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-124" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" y="240" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-125" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="247.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-128" target="IfqY_Ha_KSQStL62-luk-129" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-127" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-126" vertex="1" connectable="0">
+          <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-128" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#E7157B;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.eventbridge;" parent="1" vertex="1">
+          <mxGeometry x="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-129" value="failure alert" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="-30" y="7.5" width="75" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-2" target="IfqY_Ha_KSQStL62-luk-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-131" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-130" vertex="1" connectable="0">
+          <mxGeometry x="0.1704" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-3" target="IfqY_Ha_KSQStL62-luk-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-133" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-132" vertex="1" connectable="0">
+          <mxGeometry x="-0.1852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-32" target="IfqY_Ha_KSQStL62-luk-112" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-139" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-138" vertex="1" connectable="0">
+          <mxGeometry x="-0.0963" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-140" value="error" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-33" target="IfqY_Ha_KSQStL62-luk-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-40" target="IfqY_Ha_KSQStL62-luk-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IfqY_Ha_KSQStL62-luk-142" value="error" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-141" vertex="1" connectable="0">
+          <mxGeometry x="-0.037" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
