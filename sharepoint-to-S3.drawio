@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:143.0) Gecko/20100101 Firefox/143.0" version="28.2.4">
   <diagram name="Page-1" id="6CO7TYVCKSgY1BVK7JIl">
-    <mxGraphModel dx="1932" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1693" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-12" target="IfqY_Ha_KSQStL62-luk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-73" value="Dev Knowledge Base Sync Launched" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-51" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-73" value="&lt;div&gt;Dev Knowledge Base Sync Launched&lt;/div&gt;&lt;div&gt;(EventBridge Trigger of Container??)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-51" vertex="1" connectable="0">
           <mxGeometry x="-0.0667" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -97,7 +97,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-34" target="IfqY_Ha_KSQStL62-luk-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-84" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-65" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-84" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-65" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -167,7 +167,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-10" target="IfqY_Ha_KSQStL62-luk-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-75" value="RAG Eval Created for Dev KB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-53" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-75" value="&lt;div&gt;RAG Eval Created for Dev KB&lt;/div&gt;&lt;div&gt;(EventBridge Trigger of Lambda)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-53" vertex="1" connectable="0">
           <mxGeometry x="-0.1" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -175,7 +175,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-4" target="IfqY_Ha_KSQStL62-luk-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-76" value="Rag Eval Completed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-54" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-76" value="&lt;div&gt;Rag Eval Completed&lt;/div&gt;&lt;div&gt;(EventBridge Trigger of Lambda)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-54" vertex="1" connectable="0">
           <mxGeometry x="-0.2333" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -183,7 +183,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-5" target="IfqY_Ha_KSQStL62-luk-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-77" value="&lt;div&gt;Email&amp;nbsp;&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-56" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-77" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-56" vertex="1" connectable="0">
           <mxGeometry x="0.0133" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -259,7 +259,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-87" target="IfqY_Ha_KSQStL62-luk-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-92" value="Email Notification Sent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-91" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-92" value="Email/SNS Notification Sent" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-91" vertex="1" connectable="0">
           <mxGeometry x="-0.0333" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -267,7 +267,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-100" target="IfqY_Ha_KSQStL62-luk-101" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-99" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-98" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-99" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-98" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -281,7 +281,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-104" target="IfqY_Ha_KSQStL62-luk-105" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-103" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-102" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-103" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-102" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -295,7 +295,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-108" target="IfqY_Ha_KSQStL62-luk-109" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-107" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-106" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-107" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-106" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -309,7 +309,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-112" target="IfqY_Ha_KSQStL62-luk-113" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-111" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-110" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-111" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-110" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -323,7 +323,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-116" target="IfqY_Ha_KSQStL62-luk-117" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-115" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-114" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-115" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-114" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -337,7 +337,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-120" target="IfqY_Ha_KSQStL62-luk-121" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-119" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-118" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-119" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-118" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -351,7 +351,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-124" target="IfqY_Ha_KSQStL62-luk-125" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-123" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-122" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-123" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-122" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -365,7 +365,7 @@
         <mxCell id="IfqY_Ha_KSQStL62-luk-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="IfqY_Ha_KSQStL62-luk-128" target="IfqY_Ha_KSQStL62-luk-129" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IfqY_Ha_KSQStL62-luk-127" value="&lt;div&gt;Email&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-126" vertex="1" connectable="0">
+        <mxCell id="IfqY_Ha_KSQStL62-luk-127" value="&lt;div&gt;Email/SNS&lt;/div&gt;&lt;div&gt;Alert&lt;/div&gt;&lt;div&gt;Sent&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="IfqY_Ha_KSQStL62-luk-126" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
